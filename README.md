@@ -11,10 +11,6 @@
 
 - 💬 Ask me about **.Net, Powershell, Continuous Integration, Continuous Deployment**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/akkayaonur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akkayaonur" height="30" width="40" /></a>
