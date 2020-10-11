@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **.Net, Powershell, Continuous Integration, Continuous Deployment**
 
-- 📫 How to reach me **onur.akkaya@d-teknoloji.com.tr**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -22,7 +20,6 @@
 <a href="https://twitter.com/akkayaonur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akkayaonur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/onurakkaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onurakkaya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13066603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13066603" height="30" width="40" /></a>
-<a href="https://instagram.com/_onur.akkaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_onur.akkaya" height="30" width="40" /></a>
 <a href="https://medium.com/@onurakkaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@onurakkaya" height="30" width="40" /></a>
 </p>
 
@@ -32,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurakkaya&layout=compact" alt="onurakkaya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurakkaya&show_icons=true" alt="onurakkaya" /></p>
+
