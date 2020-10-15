@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">Software Engineer, DevOps Engineer at <a href="http://www.d-teknoloji.com.tr/" target="_blank"><b>Dogus Technology</b></a></h3>
+<h3 align="center">Software Engineer, Backend Developer, DevOps Engineer at <a href="http://www.d-teknoloji.com.tr/" target="_blank"><b>Dogus Technology</b></a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurakkaya&label=Profile%20views&color=0e75b6&style=flat-square" alt="onurakkaya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akkayaonur" target="blank"><img src="https://img.shields.io/twitter/follow/akkayaonur?logo=twitter&style=for-the-badge" alt="akkayaonur" /></a> </p>
 
 - 👯 I’m looking to collaborate on [DSM UI](https://github.com/DogusTeknoloji/DSM-UI-Solution)
 
@@ -25,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurakkaya&layout=compact" alt="onurakkaya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurakkaya&show_icons=true" alt="onurakkaya" /></p>
-
