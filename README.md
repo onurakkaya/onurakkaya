@@ -1,5 +1,3 @@
-
-<h3 align="center">Hi 👋, I'm Onur</h3>
 <hr />
 <h5 align="center">Software Engineer | Backend Developer | DevOps Engineer at <a href="http://www.d-teknoloji.com.tr/" target="_blank"><b>Dogus Technology</b></a></h5>
 <hr />
