@@ -5,7 +5,6 @@
 <p align="center">
     <img src="https://github.com/onurakkaya/onurakkaya/raw/main/github_bg_opt_320x480.gif"/>
 </p>
-<br/>
 <p align="left">
     <h4 align="left" style="margin-left: 15px">&nbsp;&nbsp;&nbsp;Connect with me:</h4>
     <a href="https://i.ytimg.com/vi/VZ6DTHK8wgQ/maxresdefault.jpg" alt="akkayaonur" height="30" width="40" /></a>
