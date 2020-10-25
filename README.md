@@ -1,5 +1,6 @@
 <hr />
 <h3 align="center">Software Engineer | Backend Developer | DevOps Engineer at <a href="http://www.d-teknoloji.com.tr/" target="_blank"><b>Dogus Technology</b></a></h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=onurakkaya" alt="onurakkaya" /> </p>
 <hr />
 <p align="center">
     <img src="https://github.com/onurakkaya/onurakkaya/raw/main/github_bg_opt_320x480.gif"/>
