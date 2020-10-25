@@ -1,5 +1,5 @@
 <hr />
-<h4 align="center">Software Engineer | Backend Developer | DevOps Engineer at <a href="http://www.d-teknoloji.com.tr/" target="_blank"><b>Dogus Technology</b></a></h4>
+<h3 align="center">Software Engineer | Backend Developer | DevOps Engineer at <a href="http://www.d-teknoloji.com.tr/" target="_blank"><b>Dogus Technology</b></a></h3>
 <hr />
 <p align="center">
     <img src="https://github.com/onurakkaya/onurakkaya/raw/main/github_bg_opt_320x480.gif"/>
